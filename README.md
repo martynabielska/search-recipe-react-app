@@ -2,7 +2,7 @@
 
 ## Overview:
 
-A simple dynamic react app. This project uses React.js, React-Router-dom for navigation, Spooncular API for getting recipes data by axios request, and css for styles.
+A simple dynamic react app. This project uses React.js, React-Router-dom for navigation, Spooncular API for getting recipes data by axios request, css for styles and Netlify for hosting.
 
 ### Live demo: https://search-recipe-react-app.netlify.app/
 
