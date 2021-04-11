@@ -1,0 +1,42 @@
+.about-the-app-wrapper-img {
+  background-image: url("../assets/food.jpg");
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.about-the-app {
+  margin-top: 200px;
+  font-size: 50px;
+  color: white;
+}
+
+.about-text {
+  color: white;
+  font-size: 20px;
+  line-height: 30px;
+  margin: 100px 0 0 900px;
+}
+.about-the-app-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding-right: 30px;
+  justify-content: center;
+  height: 50vh;
+}
+
+@media (max-width: 1000px) {
+  .about-the-app-wrapper-img {
+    background-image: url("../assets/food.jpg");
+  }
+  .about-the-app {
+    display: none;
+  }
+
+  .about-text {
+    margin: 20px 0 0 30px;
+    font-size: 15px;
+    line-height: 20px;
+  }
+}

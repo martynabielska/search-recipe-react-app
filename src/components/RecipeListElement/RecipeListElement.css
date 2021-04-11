@@ -1,0 +1,12 @@
+.singleRecipe-name {
+  font-size: 15px;
+  margin-top: 25px;
+  padding-bottom: 10px;
+  color: white;
+}
+.recipe-img {
+  width: 200px;
+  height: 200px;
+  border: 4px solid white;
+  border-radius: 15px;
+}
